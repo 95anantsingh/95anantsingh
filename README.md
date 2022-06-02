@@ -12,27 +12,29 @@ I'm graduate student at New York University and passionate about Data Science in
 - 💬 Ask me about anything [here](https://github.com/95anantsingh/95anantsingh/issues)
 
 
-#### Working with
-
-
-<img height="45" src="assets/python.png">&nbsp;&nbsp;<img height="45" src="assets/scikit-learn.png">&nbsp;&nbsp;
-<img height="45" src="assets/pytorch.png">&nbsp;&nbsp;
-<img height="45" src="assets/tensorflow.png">&nbsp;&nbsp;
-<img height="45" src="assets/cuda.png">&nbsp;&nbsp;
-<img height="45" src="assets/sql.png">&nbsp;&nbsp;
-<img height="45" src="assets/c.png">&nbsp;&nbsp;
-<img height="45" src="assets/jupyter-notebook.png">&nbsp;&nbsp;
-<img height="45" src="assets/matlab.png">&nbsp;&nbsp;
-<img height="45" src="assets/java.png">&nbsp;&nbsp;
-<img height="45" src="assets/numpy.png">&nbsp;&nbsp;
-<img height="45" src="assets/linux.png">&nbsp;&nbsp;
-<img height="45" src="assets/git (1).png">&nbsp;&nbsp;
-
 
 <br>
 
 | <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=95anantsingh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anant's github stats" /></a> | <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=95anantsingh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+<br>
+
+### Working with
+
+
+<img height="40" src="assets/python.png">&nbsp;&nbsp;<img height="45" src="assets/scikit-learn.png">&nbsp;&nbsp;
+<img height="40" src="assets/pytorch.png">&nbsp;&nbsp;
+<img height="40" src="assets/tensorflow.png">&nbsp;&nbsp;
+<img height="40" src="assets/cuda.png">&nbsp;&nbsp;
+<img height="40" src="assets/sql.png">&nbsp;&nbsp;
+<img height="40" src="assets/c.png">&nbsp;&nbsp;
+<img height="40" src="assets/jupyter-notebook.png">&nbsp;&nbsp;
+<img height="40" src="assets/matlab.png">&nbsp;&nbsp;
+<img height="40" src="assets/java.png">&nbsp;&nbsp;
+<img height="40" src="assets/numpy.png">&nbsp;&nbsp;
+<img height="40" src="assets/linux.png">&nbsp;&nbsp;
+<img height="40" src="assets/git (1).png">&nbsp;&nbsp;
 
 
 <br>
