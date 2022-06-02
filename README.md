@@ -2,7 +2,7 @@
 
 <p align="left"> I'm Anant, welcome to my Github Profile! <img align="right" src="https://komarev.com/ghpvc/?username=95anantsingh&color=brightgreen" alt="Anant" /> </p>
 
-### **About me**
+### 😛 **About me**
 
 I'm graduate student at New York University and passionate about Data Science in general, I'm currently working on adversarial attacks on NLP models.
 
@@ -20,7 +20,7 @@ I'm graduate student at New York University and passionate about Data Science in
 
 <br>
 
-### Working with
+### 🔧 Working with
 
 
 <img height="40" src="assets/python.png">&nbsp;&nbsp;<img height="45" src="assets/scikit-learn.png">&nbsp;&nbsp;
