@@ -1,8 +1,8 @@
-## Hi there &nbsp; <img height="30" src="assets/Hi.gif">
+# Hi there &nbsp; <img height="30" src="assets/Hi.gif">
 
 <p align="left"> I'm Anant, welcome to my Github Profile! <img align="right" src="https://komarev.com/ghpvc/?username=95anantsingh&color=brightgreen" alt="Anant" /> </p>
 
-**About me**
+### **About me**
 
 I'm graduate student at New York University and passionate about Data Science in general, I'm currently working on adversarial attacks on NLP models.
 
