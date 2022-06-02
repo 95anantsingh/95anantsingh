@@ -1,4 +1,4 @@
-## Hi there &nbsp; <img height="30" src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif">
+## Hi there &nbsp; <img height="30" src="assets/Hi.gif">
 
 <p align="left"> I'm Anant, welcome to my Github Profile! <img align="right" src="https://komarev.com/ghpvc/?username=95anantsingh&color=brightgreen" alt="Anant" /> </p>
 
@@ -70,9 +70,9 @@ I'm graduate student at New York University and passionate about Data Science in
 ### 📮 Get In Touch!
 
 📧 [anant.singh@nyu.edu](mailto:anant.singh@nyu.edu)
-<!-- <a href="https://github.com/95anantsingh" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a> -->
-<!-- <a href="https://twitter.com/local__tourist" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a> -->
-<a href="https://www.instagram.com/anant._.singh._/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/95anantsingh/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/95anantsingh" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
-<a href="https://95anantsingh.github.io" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
+<!-- <a href="https://github.com/95anantsingh" target="_blank"><img src="assets/fb.png" alt="Facebook" width="30"></a> -->
+<!-- <a href="https://twitter.com/local__tourist" target="_blank"><img src="assets/tw.png" alt="Twitter" width="30"></a> -->
+<a href="https://www.instagram.com/anant._.singh._/" target="_blank"><img src="assets/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/95anantsingh/" target="_blank"><img src="assets/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/95anantsingh" target="_blank"><img src="assets/git.png" alt="GitHub" width="30"></a>
+<a href="https://95anantsingh.github.io" target="_blank"><img src="assets/www.png" alt="Website" width="30"></a>
