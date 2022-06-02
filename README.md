@@ -15,18 +15,18 @@ I'm graduate student at New York University and passionate about Data Science in
 #### Working with
 
 
-<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/github/explore/224672533a7f836ad6bf142e4dee61217cfc100e/topics/pytorch/pytorch.png">&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/github/explore/a1b6b508cca4e45f4d4102623957b552f872da89/topics/cuda/cuda.png">&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png">&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png">&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">&nbsp;&nbsp;
-<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">&nbsp;&nbsp;
+<img height="45" src="assets/python.png">&nbsp;&nbsp;<img height="45" src="assets/scikit-learn.png">&nbsp;&nbsp;
+<img height="45" src="assets/pytorch.png">&nbsp;&nbsp;
+<img height="45" src="assets/tensorflow.png">&nbsp;&nbsp;
+<img height="45" src="assets/cuda.png">&nbsp;&nbsp;
+<img height="45" src="assets/sql.png">&nbsp;&nbsp;
+<img height="45" src="assets/c.png">&nbsp;&nbsp;
+<img height="45" src="assets/jupyter-notebook.png">&nbsp;&nbsp;
+<img height="45" src="assets/matlab.png">&nbsp;&nbsp;
+<img height="45" src="assets/java.png">&nbsp;&nbsp;
+<img height="45" src="assets/numpy.png">&nbsp;&nbsp;
+<img height="45" src="assets/linux.png">&nbsp;&nbsp;
+<img height="45" src="assets/git (1).png">&nbsp;&nbsp;
 
 
 <br>
