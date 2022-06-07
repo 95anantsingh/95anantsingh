@@ -60,7 +60,7 @@ I'm graduate student at New York University and passionate about Data Science in
 
 ### 📝 My Latest Medium Blog Post
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anant_singh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anant_singh/0" alt="Recent Article 0"></a>
+ <a target="_blank" href="https://medium.com/@anant_singh/rcsnet-a-hybrid-model-for-time-series-forecasting-77e6205140d6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anant_singh/0" alt="Recent Article 0"></a>
 
 <!-- 
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/1" alt="Recent Article 1"></a>
