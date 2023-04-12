@@ -15,10 +15,10 @@ I'm graduate student at New York University and passionate about Data Science in
 
 <br>
 
-<!-- | <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=95anantsingh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anant's github stats" /></a> | <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=95anantsingh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=95anantsingh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anant's github stats" /></a> | <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=95anantsingh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<br> -->
+<br>
 
 ### 🔧 Working with
 
