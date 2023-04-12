@@ -4,7 +4,7 @@
 
 ### 😛 **About me**
 
-I'm graduate student at New York University and passionate about Data Science in general, I'm currently working on adversarial attacks on NLP models.
+I'm graduate student at New York University and passionate about Data Science in general, I'm currently working on Speech Emotion Recognition and Semi Supervised Learning in NLP.
 
 - 💼 Deep Learning Engineer
 - 🎾 Like to play Badminton 
