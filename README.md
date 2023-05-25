@@ -4,19 +4,12 @@
 
 ### 😛 **About me**
 
-I'm graduate student at New York University and passionate about Data Science in general, I'm currently working on Speech Emotion Recognition and Semi Supervised Learning in NLP.
-
-- 💼 Deep Learning Engineer
-- 🎾 Like to play Badminton 
-- 🐹 Pet Lover
-- 💬 Ask me about anything [here](https://github.com/95anantsingh/95anantsingh/issues)
-
-
+| ------------- | ------------- |
+|<p>I'm graduate student at New York University and passionate about Data Science in general, I'm currently working on Speech Emotion Recognition and Semi Supervised Learning in NLP. <br> <br> - 💼 Deep Learning Engineer <br>- 🎾 Like to play Badminton <br>- 🐹 Pet Lover <br>- 💬 Ask me about anything [here](https://github.com/95anantsingh/95anantsingh/issues)</p> | <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=95anantsingh" /> </p>|
 
 <br>
-
-| <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=95anantsingh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anant's github stats" /></a> | <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=95anantsingh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+| <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=95anantsingh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anant's github stats" /></a> | <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=95anantsingh&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 <br>
 
@@ -70,7 +63,6 @@ I'm graduate student at New York University and passionate about Data Science in
 <br>
 
 ### 📮 Get In Touch!
-
 📧 [anant.singh@nyu.edu](mailto:anant.singh@nyu.edu)
 <!-- <a href="https://github.com/95anantsingh" target="_blank"><img src="assets/fb.png" alt="Facebook" width="30"></a> -->
 <!-- <a href="https://twitter.com/local__tourist" target="_blank"><img src="assets/tw.png" alt="Twitter" width="30"></a> -->
