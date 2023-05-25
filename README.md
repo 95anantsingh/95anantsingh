@@ -22,7 +22,6 @@ I'm graduate student at New York University and passionate about Data Science in
 
 ### 🔧 Working with
 
-
 <img height="40" src="assets/python.png">&nbsp;&nbsp;<img height="45" src="assets/scikit-learn.png">&nbsp;&nbsp;
 <img height="40" src="assets/pytorch.png">&nbsp;&nbsp;
 <img height="40" src="assets/tensorflow.png">&nbsp;&nbsp;
@@ -35,7 +34,6 @@ I'm graduate student at New York University and passionate about Data Science in
 <img height="40" src="assets/numpy.png">&nbsp;&nbsp;
 <img height="40" src="assets/linux.png">&nbsp;&nbsp;
 <img height="40" src="assets/git (1).png">&nbsp;&nbsp;
-
 
 <br>
 
@@ -55,9 +53,9 @@ I'm graduate student at New York University and passionate about Data Science in
 </a>
 
 <br> -->
-<br>
-<!-- <br>
 
+<!-- <br>
+<br>
 ### 📝 My Latest Medium Blog Post
 
  <a target="_blank" href="https://medium.com/@anant_singh/rcsnet-a-hybrid-model-for-time-series-forecasting-77e6205140d6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anant_singh/0" alt="Recent Article 0"></a> -->
@@ -65,9 +63,9 @@ I'm graduate student at New York University and passionate about Data Science in
 <!-- 
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/1" alt="Recent Article 1"></a>
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"></a> <br> 
--->
 
 <br>
+-->
 
 ### 📮 Get In Touch!
 📧 [anant.singh@nyu.edu](mailto:anant.singh@nyu.edu)
