@@ -4,13 +4,14 @@
 
 ### 😛 **About me**
 
-| ------------- | ------------- |
+
 |<p>I'm graduate student at New York University and passionate about Data Science in general, I'm currently working on Speech Emotion Recognition and Semi Supervised Learning in NLP. <br> <br> - 💼 Deep Learning Engineer <br>- 🎾 Like to play Badminton <br>- 🐹 Pet Lover <br>- 💬 Ask me about anything [here](https://github.com/95anantsingh/95anantsingh/issues)</p> | <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=95anantsingh" /> </p>|
+| ------------- | ------------- |
 
 <br>
-| ------------- | ------------- |
-| <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=95anantsingh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anant's github stats" /></a> | <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=95anantsingh&layout=compact&theme=buefy&hide_border=true" /></a> |
 
+| <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=95anantsingh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anant's github stats" /></a> | <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=95anantsingh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 <br>
 
 ### 🔧 Working with
