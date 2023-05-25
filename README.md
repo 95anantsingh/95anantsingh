@@ -5,7 +5,7 @@
 ### 😛 **About me**
 
 
-I'm graduate student at New York University and passionate about Data Science in general, I'm currently working on Speech Emotion Recognition and Semi Supervised Learning in NLP.
+Experienced Data Scientist with a passion for exploring the potential of Language Models (LLMs) and Vision Transformers (ViTs). As a recent graduate from NYU, I am eager to contribute my expertise in a dynamic and collaborative work environment, where I can tackle challenging tasks head-on. I bring a wealth of skills to leverage in delivering impactful solutions. 
 
 - 💼 Deep Learning Engineer
 - 🎾 Like to play Badminton
