@@ -11,9 +11,6 @@ Experienced Data Scientist with a passion for exploring the potential of Languag
 - 🎾 Like to play Badminton
 - 🐹 Pet Lover 
 - 💬 Ask me about anything [here](https://github.com/95anantsingh/95anantsingh/issues)
-              
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="95anantsingh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/95anantsingh?trk=profile-badge">Anant Singh</a></div>
- 
  
 <!-- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=anantsingh" /> </p>|
  -->
