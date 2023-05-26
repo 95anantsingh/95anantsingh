@@ -7,7 +7,7 @@
 
 Experienced Data Scientist with a passion for exploring the potential of Language Models (LLMs) and Vision Transformers (ViTs). As a recent graduate from NYU, I am eager to contribute my expertise in a dynamic and collaborative work environment, where I can tackle challenging tasks head-on. I bring a wealth of skills to leverage in delivering impactful solutions. 
 
-|- 💼 Deep Learning Engineer <br>- 🎾 Like to play Badminton <br>- 🐹 Pet Lover <br>- 💬 Ask me about anything [here](https://github.com/95anantsingh/95anantsingh/issues)|<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="95anantsingh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/95anantsingh?trk=profile-badge">Anant Singh</a></div> |
+|<p align="left">- 💼 Deep Learning Engineer <br>- 🎾 Like to play Badminton <br>- 🐹 Pet Lover <br>- 💬 Ask me about anything [here](https://github.com/95anantsingh/95anantsingh/issues)</p>  | <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="95anantsingh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/95anantsingh?trk=profile-badge">Anant Singh</a></div> |
 | ------------- | ------------- |
               
  
