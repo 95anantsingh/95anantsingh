@@ -17,20 +17,20 @@ Driven and innovative Data Scientist specializing in Language Models (LLMs) and 
 <table>
  <tr>
   <td>
-   <a href="https://github.com/95anantsingh">
+   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=95anantsingh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github" alt="Anant's github stats" />
    </a>
   </td>
   <td rowspan=3>
-   <a href="https://github.com/95anantsingh">
+   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=95anantsingh&layout=donut-vertical&theme=buefy&hide_border=true&langs_count=12" />
    </a>
   </td>
  </tr>
+ <tr></tr>
  <tr>
- <tr style="background-color: transparent !important;">
   <td>
-   <a href="https://github.com/95anantsingh">
+   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=anantsingh&layout=compact&theme=buefy&hide_border=true&custom_title=Coding%20Stats%20(Last%207%20days)" />
    </a>
   </td>
