@@ -38,6 +38,13 @@ Driven and innovative Data Scientist specializing in Language Models (LLMs) and 
 </table>
 
 <br>
+<!--
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+https://shields.io/badges
+https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+-->
 
 <!--
 
