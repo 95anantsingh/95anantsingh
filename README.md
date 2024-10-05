@@ -5,19 +5,38 @@
 ### 😛 **About me**
 
 
-Experienced Data Scientist with a passion for exploring the potential of Language Models (LLMs) and Vision Transformers (ViTs). As a recent graduate from NYU, I am eager to contribute my expertise in a dynamic and collaborative work environment, where I can tackle challenging tasks head-on. I bring a wealth of skills to leverage in delivering impactful solutions. 
+Driven and innovative Data Scientist specializing in Language Models (LLMs) and advancing NLP systems. As part of Apple’s DocAI team, I focus on optimizing and scaling NLP technologies to deliver next-generation solutions. With a passion for turning complex data into actionable insights, I thrive in fast-paced, collaborative environments, consistently pushing the boundaries of what’s possible in AI and machine learning. 
 
 - 💼 Deep Learning Engineer
-- 🎾 Like to play Badminton
+- 🎾 Like to play Tennis
 - 🐹 Pet Lover 
-- 💬 Ask me about anything [here](https://github.com/95anantsingh/95anantsingh/issues)
- 
-<!-- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=anantsingh" /> </p>|
- -->
+- 💬 Have Questions? [Raise here](https://github.com/95anantsingh/95anantsingh/issues)
+
 <br>
 
-| <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=95anantsingh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anant's github stats" /></a> | <a href="https://github.com/95anantsingh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=95anantsingh&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<table>
+ <tr>
+  <td>
+   <a href="https://github.com/95anantsingh">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=95anantsingh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github" alt="Anant's github stats" />
+   </a>
+  </td>
+  <td rowspan=3>
+   <a href="https://github.com/95anantsingh">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=95anantsingh&layout=donut-vertical&theme=buefy&hide_border=true&langs_count=12" />
+   </a>
+  </td>
+ </tr>
+ <tr>
+ <tr style="background-color: transparent !important;">
+  <td>
+   <a href="https://github.com/95anantsingh">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=anantsingh&layout=compact&theme=buefy&hide_border=true&custom_title=Coding%20Stats%20(Last%207%20days))" />
+   </a>
+  </td>
+ </tr>
+</table>
+
 <br>
 
 ### 🔧 Working with
