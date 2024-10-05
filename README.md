@@ -39,7 +39,10 @@ Driven and innovative Data Scientist specializing in Language Models (LLMs) and 
 
 <br>
 
+<!--
+
 ### 🔧 Working with
+
 
 <img height="40" src="assets/python.png">&nbsp;&nbsp;<img height="45" src="assets/scikit-learn.png">&nbsp;&nbsp;
 <img height="40" src="assets/pytorch.png">&nbsp;&nbsp;
@@ -54,7 +57,7 @@ Driven and innovative Data Scientist specializing in Language Models (LLMs) and 
 <img height="40" src="assets/linux.png">&nbsp;&nbsp;
 <img height="40" src="assets/git (1).png">&nbsp;&nbsp;
 
-<br>
+<br> -->
 
 <!-- ### 📚 Top Repositories
 
@@ -73,7 +76,7 @@ Driven and innovative Data Scientist specializing in Language Models (LLMs) and 
 
 <br> -->
 
-<!-- <br>
+<!-- 
 <br>
 ### 📝 My Latest Medium Blog Post
 
